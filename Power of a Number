@@ -1,0 +1,5 @@
+
+x=int(input())
+n=int(input())
+p=pow(x,n)
+print(p)
