@@ -1,0 +1,10 @@
+s=int(input())
+l=int(input())
+b=int(input())
+r=float(input())
+a_s=int(s*s)
+a_r=int(l*b)
+a_c=float(3.14*r*r)#python
+print(a_s)
+print(a_r)
+print("%.2f"%a_c)
