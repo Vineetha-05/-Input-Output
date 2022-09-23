@@ -1,0 +1,7 @@
+
+
+a=int(input())
+b=int(input())
+c=float(input())
+si=(a*b*c)/100#python
+print("%.2f"%si)
