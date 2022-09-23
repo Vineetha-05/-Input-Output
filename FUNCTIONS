@@ -1,0 +1,38 @@
+
+
+Arthmetic Operators
+
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+
+
+
+
+
+
+square root
+
+a=int(input())
+a=pow(a,2)
+print(a)
+
+
+
+
+
+
+cube root
+
+a=int(input())
+a=pow(a,3)
+print(a)
+
+
+
+
